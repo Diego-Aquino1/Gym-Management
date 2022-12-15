@@ -1,14 +1,21 @@
-# Gym management system
-The GYM MANAGEMENT SYSTEM is to automate everything that happens in the gym. It is to aid and simplify the job all those who work for the gym, who train in the gym and who owns the gym. The database consists of daily goals and stats of achievements/progress of a member who trains in the gym, contact details and personal info of everyone, training programs that the gym offers, equipment etc.
+# Proyecto de trabajo  
+## Integrantes  
+- John Edson Sanchez Chilo
+- Erick Perez Chipa
+- Ronald Romario Gutierrez Arratia 
+- Gabriel Pacco Huaraca  
+- Levi Joel Castillon Urquiza
+## Administración de un gimnasio
+El SISTEMA DE GESTIÓN DE GIMNASIO es para automatizar todo lo que sucede en el gimnasio. Es para ayudar y simplificar el trabajo a todos aquellos que trabajan para el gimnasio, que entrenan en el gimnasio y que son dueños del gimnasio. La base de datos consta de objetivos diarios y estadísticas de logros/progreso de un miembro que entrena en el gimnasio, detalles de contacto e información personal de todos, programas de entrenamiento que ofrece el gimnasio, equipos, etc.
 
-## Who is it for
-- Gym members
+## Para quienes es?
+- Miembros del gimnasio
 - Admin
-- Receptionist
-- Trainers
+- Receptionista
+- Entrenadores
 
-## Functionality
-* **Admin** - Admin/Owner of the gym can add a receptionist, delete a receptionist, add a trainer, and delete a trainer, view details of everyone (Receptionist, Trainers, and gym members), add a new member to the gym, delete a member when one is leaving, add equipment, remove equipment.
-* **Gym members** - Gym members can login into the system to view their daily goals like their workouts, goals, diet plan, etc. They enter their daily training details. They can edit their personal information like contact details, personal info etc. They can also view their trainers contact info. They can track their progress.
-* **Trainers** - Trainer can design and add a workout plan, view all the details, progress of all those who train under him/her, evaluate their workouts every day; edit their own contact details and personal info; can view all the equipment details available in the gym.
- * **Receptionist** - Receptionist can view contact details of everyone, add a member, delete a member.
+## Functionalidad
+* **Administrador**: el administrador/propietario del gimnasio puede agregar una recepcionista, eliminar una recepcionista, agregar un entrenador y eliminar un entrenador, ver los detalles de todos (recepcionista, entrenadores y miembros del gimnasio), agregar un nuevo miembro a el gimnasio, eliminar un miembro cuando uno se va, agregar equipo, quitar equipo.
+* **Miembros del gimnasio**: los miembros del gimnasio pueden iniciar sesión en el sistema para ver sus objetivos diarios, como sus entrenamientos, objetivos, plan de dieta, etc. Ingresan los detalles de su entrenamiento diario. Pueden editar su información personal como detalles de contacto, información personal, etc. También pueden ver la información de contacto de sus entrenadores. Pueden seguir su progreso.
+* **Entrenadores**: el entrenador puede diseñar y agregar un plan de entrenamiento, ver todos los detalles, el progreso de todos los que entrenan debajo de él / ella, evaluar sus entrenamientos todos los días; editar sus propios datos de contacto e información personal; puede ver todos los detalles del equipo disponible en el gimnasio.
+  * **Recepcionista**: la recepcionista puede ver los detalles de contacto de todos, agregar un miembro, eliminar un miembro.
