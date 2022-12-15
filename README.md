@@ -5,6 +5,7 @@
 - Ronald Romario Gutierrez Arratia 
 - Gabriel Pacco Huaraca  
 - Levi Joel Castillon Urquiza
+- Diego Josué Aquino Quispe
 ## Administración de un gimnasio
 El SISTEMA DE GESTIÓN DE GIMNASIO es para automatizar todo lo que sucede en el gimnasio. Es para ayudar y simplificar el trabajo a todos aquellos que trabajan para el gimnasio, que entrenan en el gimnasio y que son dueños del gimnasio. La base de datos consta de objetivos diarios y estadísticas de logros/progreso de un miembro que entrena en el gimnasio, detalles de contacto e información personal de todos, programas de entrenamiento que ofrece el gimnasio, equipos, etc.
 
